@@ -1,6 +1,6 @@
 "capstone": {
 
-        "liveLink": "<github page link>",
+        "liveLink": "https://mrlamoy.github.io/webportfolio/",
 
         "name": "<your name>",
 
