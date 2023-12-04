@@ -2,7 +2,7 @@
 
         "liveLink": "https://mrlamoy.github.io/webportfolio/",
 
-        "name": "<your name>",
+        "name": "Junel Jubay",
 
         "isMulti": false
 
